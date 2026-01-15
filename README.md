@@ -1,6 +1,6 @@
 # WHM-CHECKER
 
-Tool Capabilities
+**Tool Capabilities:**
 
 Performs automated WHM login credential verification using the official WHM authentication endpoint.
 
@@ -15,3 +15,7 @@ Provides real-time progress tracking and statistical reporting through a graphic
 Supports data import and export for efficient result management.
 
 Built as a stable desktop GUI application for structured and controlled usage.
+
+**instalation:**
+sudo python3 -m venv venv
+source venv/bin/activate
